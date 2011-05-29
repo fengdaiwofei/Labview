@@ -1,0 +1,1 @@
+See the CERTIFICATION folder of the CD-ROM for certification files.
